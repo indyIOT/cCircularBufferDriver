@@ -25,19 +25,6 @@ static const uint8_t moduleName[] = "cCircularBufferDriver";
 #define MODULE_ID 56145
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /**************************** HELPER MACROS ***********************************************/
 #ifndef ERROR_NONE
 #define ERROR_NONE 0U
